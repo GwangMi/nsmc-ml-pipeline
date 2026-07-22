@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# data & artifacts
+data/
+*.db
+*.sqlite3
+checkpoints/
+*.pt
+*.ckpt
+wandb/
+mlruns/
+
+# env
+.env
