@@ -25,7 +25,7 @@ PyTorch 프레임워크 내부 이해와 현업 수준 ML 엔지니어링(Git/CI
 ## 진행 상태
 
 - [x] 00 — PyTorch 기초 (`00_fundamentals/`)
-- [ ] 01 — Git/GitHub 워크플로우 + CI (지금 이 저장소 세팅 자체가 01단계)
+- [x] 01 — Git/GitHub 워크플로우 + CI (repo 생성, ruff+pytest CI, feature branch → PR → merge 완료)
 - [ ] 02 — 데이터 파이프라인
 - [ ] 03 — 파인튜닝
 - [ ] 04 — 학습 스케일업
